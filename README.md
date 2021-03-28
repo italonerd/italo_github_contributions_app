@@ -39,6 +39,8 @@ Response for url "http://localhost:9000/api/v1/organizations/entryway/contributo
     }
 ]
 ```
+You can find other response examples at https://github.com/italonerd/italo_github_contributions_app/tree/master/app/resources/response/examples.
+
 ps. I've limited the number of repositories iterated due to GitHub API Request Limits (https://docs.github.com/en/developers/apps/rate-limits-for-github-apps). 
 
 Best Regards     
