@@ -1,0 +1,386 @@
+[
+    {
+        "name": "Daniel Morrison",
+        "contributions": 219
+    },
+    {
+        "name": "Brandon Keepers",
+        "contributions": 182
+    },
+    {
+        "name": "Steve Richert",
+        "contributions": 111
+    },
+    {
+        "name": "Kenneth Kalmer",
+        "contributions": 106
+    },
+    {
+        "name": "Brian Ryckbost",
+        "contributions": 87
+    },
+    {
+        "name": "Dominic Cleal",
+        "contributions": 33
+    },
+    {
+        "name": "Tomer Brisker",
+        "contributions": 19
+    },
+    {
+        "name": null,
+        "contributions": 18
+    },
+    {
+        "name": "Ryan G",
+        "contributions": 13
+    },
+    {
+        "name": "Nilakanta",
+        "contributions": 10
+    },
+    {
+        "name": "Patrick Ma",
+        "contributions": 10
+    },
+    {
+        "name": "Bill Siggelkow",
+        "contributions": 8
+    },
+    {
+        "name": "Michael Grosser",
+        "contributions": 8
+    },
+    {
+        "name": "Miks Miķelsons",
+        "contributions": 8
+    },
+    {
+        "name": "Tim Bugai",
+        "contributions": 6
+    },
+    {
+        "name": "Jared Beck",
+        "contributions": 5
+    },
+    {
+        "name": "Ale Ornelas Figueroa",
+        "contributions": 5
+    },
+    {
+        "name": "Raphaël Emourgeon",
+        "contributions": 4
+    },
+    {
+        "name": "Emery Finkelstein",
+        "contributions": 3
+    },
+    {
+        "name": "Koustubh Sinkar",
+        "contributions": 3
+    },
+    {
+        "name": "Alexandr Elhovenko",
+        "contributions": 3
+    },
+    {
+        "name": "Adam Cigánek",
+        "contributions": 3
+    },
+    {
+        "name": "Jim",
+        "contributions": 3
+    },
+    {
+        "name": "Ches Martin",
+        "contributions": 3
+    },
+    {
+        "name": "Travis Hunter",
+        "contributions": 3
+    },
+    {
+        "name": "Patrik Bóna",
+        "contributions": 2
+    },
+    {
+        "name": "Ben Lovell",
+        "contributions": 2
+    },
+    {
+        "name": "Lucas Mansur",
+        "contributions": 2
+    },
+    {
+        "name": "Kevin Coleman",
+        "contributions": 2
+    },
+    {
+        "name": "Jorge Oliveira Santos",
+        "contributions": 2
+    },
+    {
+        "name": "Joe Francis",
+        "contributions": 2
+    },
+    {
+        "name": "Trevor",
+        "contributions": 2
+    },
+    {
+        "name": "Dana Jones",
+        "contributions": 2
+    },
+    {
+        "name": "Aaron Suggs",
+        "contributions": 2
+    },
+    {
+        "name": "Anthony Hernandez",
+        "contributions": 2
+    },
+    {
+        "name": "Olle Jonsson",
+        "contributions": 2
+    },
+    {
+        "name": "Lance Ivy",
+        "contributions": 2
+    },
+    {
+        "name": "Jonathan Thom",
+        "contributions": 2
+    },
+    {
+        "name": "Andy Pickler",
+        "contributions": 2
+    },
+    {
+        "name": "Jeffrey Dill",
+        "contributions": 2
+    },
+    {
+        "name": "Charles Maresh",
+        "contributions": 2
+    },
+    {
+        "name": "Joe Rozner",
+        "contributions": 2
+    },
+    {
+        "name": "Guilherme Pejon",
+        "contributions": 2
+    },
+    {
+        "name": "Vít Ondruch",
+        "contributions": 2
+    },
+    {
+        "name": "Prem Sichanugrist",
+        "contributions": 1
+    },
+    {
+        "name": "David L Kinney",
+        "contributions": 1
+    },
+    {
+        "name": "Konstantinos Rousis",
+        "contributions": 1
+    },
+    {
+        "name": "Linux on Rails",
+        "contributions": 1
+    },
+    {
+        "name": "Andrew Kane",
+        "contributions": 1
+    },
+    {
+        "name": "Jon Canady",
+        "contributions": 1
+    },
+    {
+        "name": "Hendy Tanata",
+        "contributions": 1
+    },
+    {
+        "name": "Jeroen Heijmans",
+        "contributions": 1
+    },
+    {
+        "name": "Yves Senn",
+        "contributions": 1
+    },
+    {
+        "name": "David Genord II",
+        "contributions": 1
+    },
+    {
+        "name": "Xavier Shay",
+        "contributions": 1
+    },
+    {
+        "name": "George Mendoza",
+        "contributions": 1
+    },
+    {
+        "name": "Max Melentiev",
+        "contributions": 1
+    },
+    {
+        "name": "Miguel Michelson Martinez",
+        "contributions": 1
+    },
+    {
+        "name": "Enrique Barragán",
+        "contributions": 1
+    },
+    {
+        "name": "Nicholas Hance",
+        "contributions": 1
+    },
+    {
+        "name": "rauan",
+        "contributions": 1
+    },
+    {
+        "name": "Steven Petryk",
+        "contributions": 1
+    },
+    {
+        "name": "Shai Coleman",
+        "contributions": 1
+    },
+    {
+        "name": "Andrew Donaldson",
+        "contributions": 1
+    },
+    {
+        "name": "Brandon Medenwald",
+        "contributions": 1
+    },
+    {
+        "name": "Nick Rivadeneira",
+        "contributions": 1
+    },
+    {
+        "name": "Thomas Cioppettini",
+        "contributions": 1
+    },
+    {
+        "name": "Steven Daniels",
+        "contributions": 1
+    },
+    {
+        "name": "Nilesh Panchal",
+        "contributions": 1
+    },
+    {
+        "name": "Kurtis Rainbolt-Greene",
+        "contributions": 1
+    },
+    {
+        "name": "Wes Oldenbeuving",
+        "contributions": 1
+    },
+    {
+        "name": "Reid Lynch",
+        "contributions": 1
+    },
+    {
+        "name": "Bart De Gruyter",
+        "contributions": 1
+    },
+    {
+        "name": "Braintree Open Source",
+        "contributions": 1
+    },
+    {
+        "name": "Bill Kirtley",
+        "contributions": 1
+    },
+    {
+        "name": "Jimmie Elvenmark",
+        "contributions": 1
+    },
+    {
+        "name": "Mike Vastola",
+        "contributions": 1
+    },
+    {
+        "name": "Adrian Duraj",
+        "contributions": 1
+    },
+    {
+        "name": "Carlos Kozuszko",
+        "contributions": 1
+    },
+    {
+        "name": "Oleg Yakovenko",
+        "contributions": 1
+    },
+    {
+        "name": "Vasily Fedoseyev",
+        "contributions": 1
+    },
+    {
+        "name": "Pedro Coelho",
+        "contributions": 1
+    },
+    {
+        "name": "Karol Wyliziński",
+        "contributions": 1
+    },
+    {
+        "name": "Michal Cichra",
+        "contributions": 1
+    },
+    {
+        "name": "Randy Pond",
+        "contributions": 1
+    },
+    {
+        "name": "Daniel Lobato García",
+        "contributions": 1
+    },
+    {
+        "name": "Felipe Espinoza",
+        "contributions": 1
+    },
+    {
+        "name": "Noah Birnel",
+        "contributions": 1
+    },
+    {
+        "name": "Thomas Klemm",
+        "contributions": 1
+    },
+    {
+        "name": "Jan",
+        "contributions": 1
+    },
+    {
+        "name": "Scott Bronson",
+        "contributions": 1
+    },
+    {
+        "name": "Alejandro Wainzinger",
+        "contributions": 1
+    },
+    {
+        "name": "Alexandros Giouzenis",
+        "contributions": 1
+    },
+    {
+        "name": "John Berry",
+        "contributions": 1
+    },
+    {
+        "name": "Vasily Vasinov",
+        "contributions": 1
+    },
+    {
+        "name": "Andy Stewart",
+        "contributions": 1
+    }
+]
