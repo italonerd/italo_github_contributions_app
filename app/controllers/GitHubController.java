@@ -97,7 +97,6 @@ public class GitHubController extends Controller {
 
         /* Get contributions by contributor name for every repository.*/
         Map<String, Integer> responseMap = new HashMap<>();
-        System.out.println(responseMap);
         repositoriesList.forEach((repository) ->
                 repository.listContributors().forEach((contributor) ->
                         responseMap.put(
